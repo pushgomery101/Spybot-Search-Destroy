@@ -219,4 +219,4 @@ Spybot Search & Destroy is offered as a **full free version** with all features 
 Take action today and ensure your PC is protected with Spybot Search & Destroy. **Download now!**
 
 ---
-**Last updated:** 2026-11-03 07:35:05 UTC
+**Last updated:** 2026-11-03 15:49:48 UTC
